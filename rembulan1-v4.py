@@ -236,7 +236,7 @@ def menu(id):
 	os.system('clear')
 	banner()
 	print(f'{xxx}─────────────────────────────')
-	os.system("xdg-open https://wa.me/+6283170597744?text=Assalamualaikum+makasih+bang+sc+nya+moga+ijo🙄")
+
 	print(f'{xxx}[>>] 1. crack')
 	helpbas = input(f'{xxx}[>>] : ')
 	if helpbas in ['1']:
